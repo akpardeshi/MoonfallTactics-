@@ -1,0 +1,21 @@
+{
+    "name": "Deckbuilder",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3796d9e6a1abd0c40a952228c557de0f",
+        "GUID:119efa002a61167458c6f249364cd1a6",
+        "GUID:60d2d71a127522e40bd7cd39d833036f",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:1baf1ffff1031e948b3b228ab3453251",
+        "GUID:148bc69eb30e07b48a6ab735e3fa31ac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

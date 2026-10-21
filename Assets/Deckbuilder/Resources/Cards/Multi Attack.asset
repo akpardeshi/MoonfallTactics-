@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a409f7e72f64a969cc1b5fab2334f32, type: 3}
+  m_Name: Multi Attack
+  m_EditorClassIdentifier: Assembly-CSharp::Deckbuilder.Cards.MultiTargetAttack
+  cardID: 14
+  needsTargeting: 0
+  cardType: 0
+  cardName: Multi Attack
+  cardIcon: {fileID: 21300000, guid: 5953c3c09bf1a324d8c60f6265825155, type: 3}
+  cardDescription: Deal 8 damage to all enemies.
+  energyNeeded: 2
+  isExhaustCard: 1
+  accentColor: {r: 0.8509804, g: 0.627451, b: 0.3647059, a: 1}
+  headerColor: {r: 0.09019608, g: 0.07450981, b: 0.16078432, a: 1}
+  actionId: 0
+  damage: 8
